@@ -19,7 +19,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 - *clone the repo:*
 ```shell
-git clone  https://github.com/islamduger40/Demoqa.git
+git clone  https://github.com/gokayeris/api-petstore.git
 ```
 
 - *set project sdk as 11*
