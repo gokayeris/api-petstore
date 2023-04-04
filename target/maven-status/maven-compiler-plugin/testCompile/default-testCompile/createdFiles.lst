@@ -1,0 +1,6 @@
+stepDefinitions\UserSteps.class
+stepDefinitions\PetSteps.class
+utilities\ConfigReader.class
+runners\Runner.class
+stepDefinitions\StoreSteps.class
+stepDefinitions\CommonApiSteps.class
