@@ -10,8 +10,8 @@ public class DataTableTypes {
     @DataTableType
     public Pet authorEntry(Map<String, String> entry) {
         return new Pet(
-                entry.get("id"),
-                entry.get("name"),
-                entry.get("status"));
+                entry.get(Pet.Fields.id),
+                entry.get(Pet.Fields.name),
+                entry.get(Pet.Fields.status));
     }
 }
